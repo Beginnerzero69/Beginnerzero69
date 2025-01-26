@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Beginnerzero69
-- 👀 I’m interested in AI/ML, Full stack developing..
-- 🌱 I’m currently pursuing Information technology from SVCE..
-- 💞️ I’m looking to learn about coding...
+- 👀 I’m interested in AI/ML, Data Analysis
 - 📫 How to reach me-
-- Email id-rishimundra69@gmail.com
+- Email id-rishimundra1192@gmail.com
 
 
 <!---
